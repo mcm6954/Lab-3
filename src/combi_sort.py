@@ -6,7 +6,6 @@ Uses merge sort for lists with at least eight elements, and insertion sort for l
 smaller than eight elements, including any such lists within the merge sort recursion.
 
 Author: Mia McSwain
-Instructor: Sean Strout
 """
 from tripods import Tripod
 
