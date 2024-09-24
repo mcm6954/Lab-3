@@ -1,0 +1,17 @@
+Rows: 5 Columns: 4
+0 3 7 9 
+2 5 1 4 
+3 3 2 1 
+4 6 8 4 
+4 1 2 0 
+Number of tripods: 8
+Optimal placement:
+location: (1,2), orientation: NORTH, sum: 16
+location: (3,1), orientation: NORTH, sum: 15
+location: (2,1), orientation: WEST, sum: 14
+location: (3,0), orientation: EAST, sum: 13
+location: (0,2), orientation: SOUTH, sum: 13
+location: (4,1), orientation: NORTH, sum: 12
+location: (3,2), orientation: NORTH, sum: 12
+location: (2,2), orientation: SOUTH, sum: 12
+Total sum: 107

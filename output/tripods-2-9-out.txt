@@ -1,0 +1,6 @@
+Rows: 3 Columns: 4
+1 1 1 1 
+1 1 1 1 
+1 1 1 1 
+Number of tripods: 9
+Too many tripods!

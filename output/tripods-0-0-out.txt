@@ -1,0 +1,6 @@
+Rows: 2 Columns: 2
+1 2 
+3 4 
+Number of tripods: 0
+Optimal placement:
+Total sum: 0
