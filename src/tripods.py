@@ -11,7 +11,6 @@ total sums of the cells that all combined tripods touch is maximum.
 Usage: python3 tripods.py filename
 
 Author: Mia McSwain
-Instructor: Sean Strout
 """
 import sys
 from dataclasses import dataclass
